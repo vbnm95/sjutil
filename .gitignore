@@ -1,0 +1,7 @@
+*.pw
+*.class
+*.swp
+.classpath
+.project
+.settings 
+/bin/
