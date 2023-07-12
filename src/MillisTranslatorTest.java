@@ -15,7 +15,7 @@ public class MillisTranslatorTest {
 			String dayOfWeek = millsTranslator.getDayOfWeek();
 			String weekLine = millsTranslator.getWeekLine();
 		
-			System.out.printf("%10s%12s%10s%4s\n", weekLine, date, time, dayOfWeek);
+			System.out.printf("%12s%12s%10s%4s\n", weekLine, date, time, dayOfWeek);
 		}
 		
 		System.out.println("END");
